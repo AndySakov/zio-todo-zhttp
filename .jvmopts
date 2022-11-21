@@ -1,0 +1,8 @@
+-XX:MaxMetaspaceSize=2g
+-XX:ReservedCodeCacheSize=1g
+-Xms1g
+-Xmx12g
+-XshowSettings:vm
+-Xss4m
+--add-opens=java.base/java.util=ALL-UNNAMED
+--add-opens=java.base/java.lang=ALL-UNNAMED
